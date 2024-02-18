@@ -1,4 +1,5 @@
 import React from 'react';
+import { postings } from './postings';
 
 function Gallery() {
   return (
